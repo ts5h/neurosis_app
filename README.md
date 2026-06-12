@@ -16,4 +16,4 @@ $ yarn start
 ```
 
 ## LICENSE
-<a href="./LICENSE">MIT License</a>
+[MIT License](./LICENSE)
