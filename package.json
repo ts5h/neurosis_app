@@ -1,6 +1,6 @@
 {
-  "name": "neurosis",
-  "productName": "neurosis",
+  "name": "neurosis_app",
+  "productName": "neurosis_app",
   "version": "0.9.28",
   "description": "My Electron application description",
   "main": ".webpack/main",
